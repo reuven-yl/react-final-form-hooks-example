@@ -1,6 +1,21 @@
 .App {
   text-align: center;
 }
+.ms-Checkbox-checkbox
+{
+  border-color: white;
+  /* background-color: wheat; */
+}
+
+label
+{
+  color: white !important
+}
+
+.ms-Checkbox-text
+{
+  color: white !important
+}
 
 .App-logo {
   height: 40vmin;
