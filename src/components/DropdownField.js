@@ -12,9 +12,9 @@ const DropdownField = ({options,placeholder,useFieldInput,styles,defaultValue })
                 delete options[target]   
             }
          }
-
         return options;
       }
+
     const [targetOptions] = useState(getOption())
 
     return (
